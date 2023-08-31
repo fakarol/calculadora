@@ -1,2 +1,2 @@
 # calculadora
- Realización de una calculadora como mo de práctica
+ Realización de una calculadora como modo de práctica
